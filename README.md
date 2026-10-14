@@ -22,7 +22,7 @@ I'm an engineering student passionate about **software development, web technolo
 
 ### Programming Languages
 
-
+c,c++,java,
 
 
 \
@@ -38,7 +38,7 @@ I'm an engineering student passionate about **software development, web technolo
 ### Database & Tools
 
 
-
+Tableau,Power BI
 
 \
 
@@ -90,4 +90,5 @@ A student information web application concept for accessing student details and 
 > "Great things are done by a series of small things brought together."
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
 
